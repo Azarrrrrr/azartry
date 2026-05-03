@@ -3,7 +3,7 @@ import numpy as np
 
 # ── Page config ──────────────────────────────────────────────
 st.set_page_config(
-    page_title="PrecogHealth",
+    page_title="Azar Ganteng Bangets jirrxyz",
     page_icon="🧬",
     layout="centered"
 )
